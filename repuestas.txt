@@ -1,1 +1,3 @@
-Repuestas a las preguntas de la practica 3
+Repuestas a las preguntas de la práctica 3
+¿Cuál es el propósito de trabajar con múltiples ramas?
+Es el de tener varias vías de desarrolo para editar cada colaborar lo que quiera y una vez obtenido lo deseado añadirlo al proyecto final.
