@@ -1,3 +1,9 @@
 Repuestas a las preguntas de la práctica 3
 ¿Cuál es el propósito de trabajar con múltiples ramas?
 Es el de tener varias vías de desarrolo para editar cada colaborar lo que quiera y una vez obtenido lo deseado añadirlo al proyecto final.
+
+¿Que es una reorganizacion (rebase)?
+Es un metodo de union de ramas.
+
+¿Cuál es la ventaja de reorganizar (rebase)?
+Una interfaz más limpia a la hora de seguir el desarrollo de las ramas.
